@@ -58,4 +58,4 @@ StyleCop.*
 #Build output
 build-output/
 
-src/DR.DebateApi.Web/App_Data/XmlDocumentation.xml
+src/packages
